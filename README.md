@@ -11,7 +11,7 @@ You can find more information about installing and how to use this library on th
 
 https://code.google.com/p/php-mime-mail-parser/#Example_Usage
 
-Coming soon
+Example files
 ===========
 
-Examples will be transfered to files on this repo soon.
+Examples can be found in the /examples folder on this repo.
